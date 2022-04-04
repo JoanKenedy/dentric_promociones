@@ -133,6 +133,7 @@ header{
     text-transform: uppercase;
     font-weight: 700;
     transition: 0.7s;
+    border-radius: 15px;
 }
 .contenido_post a:hover{
  
