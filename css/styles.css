@@ -68,11 +68,7 @@ header{
  .logo_ortho{
      max-width: 32%;
  }
- .logo_blanco{
-     max-width: 60%;
-     padding-left: 20px;
-     display: none;
-  }
+
 
   .slide_contenedor{
     max-width: 100%;
@@ -312,10 +308,10 @@ footer h5{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     text-align: center;
-    margin: 20px 0px;
+    margin: 0px 0px;
 }
 .item_footer img{
-    max-width: 100%;
+    max-width: 60%;
 }
 .item_icono{
     display: flex;
